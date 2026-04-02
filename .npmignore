@@ -1,0 +1,14 @@
+*.tgz
+*.log
+node_modules/
+.git/
+.github/
+.claude/
+docs/
+grizzly-sms-skill/
+scripts/
+test-*.js
+server_config.json
+push_info.json
+language.json
+package_name
